@@ -1,0 +1,48 @@
+.myCon {
+  margin-bottom: 20px;
+  padding: 40px 0px 10px 0px;
+  text-align: center;
+  background-color: #1e7e34;
+}
+
+.box-1 {
+  background: #ffcc00;
+  padding: 10px 0px 10px 0px;
+  margin: 30px -15px 10px -15px;
+}
+
+.hidden {
+  display: none;
+  width: 40%;
+}
+
+.message {
+  font-size: 2em;
+  margin: 10px auto;
+  color: #1e7e34;
+  margin: 20px 0px 25px 0px;
+}
+
+input {
+  width: 30%;
+  padding: 10px 0px 10px 0px;
+  margin: 0px 0px 25px 0px;
+}
+
+/*_______font size 7 styling______*/
+
+h1 {
+  font-size: 54px;
+  color: #fff;
+  margin: 50px 0px 10px 0px;
+}
+
+p {
+  color: #ffcc00;
+  margin: 30px 0px 30px 0px;
+  font-size: 18px;
+}
+
+.box-2 {
+  margin: 30px 0px 30px 0px;
+}
